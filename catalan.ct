@@ -1,0 +1,52 @@
+## version $VER: executecommand.catalog 2.0 (06.08.2026)
+## language català
+## codeset 0
+;
+MSG_TITLE
+Executar
+; Execute
+;
+MSG_DESCRIPTION
+Executar Ordre
+; Execute Command
+;
+MSG_LABEL_COMMANDLINE
+Ordre i arguments:
+; Command and arguments:
+;
+MSG_BUTTON_EXECUTE
+_Executar
+; _Execute
+;
+MSG_BUTTON_CANCEL
+_Cancel.lar
+; _Cancel
+;
+MSG_CONSOLE_TITLE
+Sortida de l'Ordre
+; Command Output
+;
+MSG_ERROR_HEADER
+ERROR
+; ERROR
+;
+MSG_ERROR_OK
+*D'Acord
+; *OK
+;
+MSG_ERROR_LOCALE
+No es pot inicialitzar la localització.
+; Can't initialize locale.
+;
+MSG_ERROR_CLASSES
+No es poden inicialitzar les classes personalitzades.
+; Can't initialize custom classes.
+;
+MSG_ERROR_OPEN_CONSOLE
+No es pot obrir la finestra de consola.
+; Can't open console window.
+;
+MSG_ERROR_EXECUTE
+No es pot executar l'ordre.
+; Can't execute command.
+;

@@ -2,9 +2,10 @@
 
 include $(SRCDIR)/config/aros.cfg
 
-CATALOGS:=croatian czech danish french german italian polish portuguese russian \
-    spanish norwegian turkish basque
-# other catalogs need update to version 2
+CATALOGS := basque catalan croatian czech danish dutch \
+    finnish french german hungarian italian norwegian \
+    polish portuguese russian serbian spanish swedish \
+    turkish
 
 %build_catalogs mmake=workbench-system-wanderer-tools-executecommand-catalogs \
     catalogs=$(CATALOGS) \
