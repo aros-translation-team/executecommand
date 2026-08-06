@@ -1,9 +1,13 @@
-## version $VER: executecommand.catalog 1.0 (11.08.2003)
+## version $VER: executecommand.catalog 2.0 (06.08.2026)
 ## language suomi
 ## codeset 0
 ;
 ;
 MSG_TITLE
+Aja komento
+; Execute Command
+;
+MSG_DESCRIPTION
 Aja komento
 ; Execute Command
 ;

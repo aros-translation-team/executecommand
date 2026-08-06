@@ -1,9 +1,13 @@
-## version $VER: executecommand.catalog 1.0 (11.08.2003)
+## version $VER: executecommand.catalog 2.0 (06.08.2026)
 ## language svenska
 ## codeset 0
 ;
 ;
 MSG_TITLE
+Exekvera kommando
+; Execute Command
+;
+MSG_DESCRIPTION
 Exekvera kommando
 ; Execute Command
 ;
