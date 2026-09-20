@@ -40,8 +40,8 @@ Impossible d'initialiser les informations de localisation.
 ; Can't initialize locale.
 ;
 MSG_ERROR_CLASSES
-Impossible d'initialiser les classes.
-; Can't initialize classes.
+Impossible d'initialiser les classes personnalisées.
+; Can't initialize custom classes.
 ;
 MSG_ERROR_OPEN_CONSOLE
 Impossible de créer la fenêtre.
