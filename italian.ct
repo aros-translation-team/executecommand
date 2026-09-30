@@ -5,7 +5,7 @@
 ;
 MSG_TITLE
 Esegui
-; Execute Command
+; Execute
 ;
 MSG_DESCRIPTION
 Esegui comando
@@ -40,8 +40,8 @@ Impossibile localizzare.
 ; Can't initialize locale.
 ;
 MSG_ERROR_CLASSES
-Impossibile inizializzare classi.
-; Can't initialize classes.
+Impossibile inizializzare classi personalizzate.
+; Can't initialize custom classes.
 ;
 MSG_ERROR_OPEN_CONSOLE
 Impossibile aprire console comando.

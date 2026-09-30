@@ -5,7 +5,7 @@
 ;
 MSG_TITLE
 Aja komento
-; Execute Command
+; Execute
 ;
 MSG_DESCRIPTION
 Aja komento
@@ -40,8 +40,8 @@ En voi alustaa lokaalia.
 ; Can't initialize locale.
 ;
 MSG_ERROR_CLASSES
-En voi alustaa luokkia.
-; Can't initialize classes.
+En voi alustaa mukautettuja luokkia.
+; Can't initialize custom classes.
 ;
 MSG_ERROR_OPEN_CONSOLE
 En voi avata konsoli-ikkunaa.
